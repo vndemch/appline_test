@@ -1,3 +1,5 @@
 print ("Hello World;")
 print ("Hello everybody;")
 print ("Hello All;")
+print ("Hello my dear friend;")
+print ("Guten Tag;")
